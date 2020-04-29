@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\bin\Debug\ex4 anagrama.exe.config
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\bin\Debug\ex4 anagrama.exe
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\bin\Debug\ex4 anagrama.pdb
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\obj\Debug\ex4 anagrama.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\obj\Debug\ex4 anagrama.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\obj\Debug\ex4 anagrama.exe
+C:\Users\dst30\source\repos\apai\ex4 anagrama\ex4 anagrama\obj\Debug\ex4 anagrama.pdb

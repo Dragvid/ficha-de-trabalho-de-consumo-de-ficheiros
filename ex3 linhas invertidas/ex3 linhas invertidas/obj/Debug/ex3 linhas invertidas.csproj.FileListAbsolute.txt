@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\obj\Debug\ex3 linhas invertidas.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\obj\Debug\ex3 linhas invertidas.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\bin\Debug\ex3 linhas invertidas.exe.config
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\bin\Debug\ex3 linhas invertidas.exe
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\bin\Debug\ex3 linhas invertidas.pdb
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\obj\Debug\ex3 linhas invertidas.exe
+C:\Users\dst30\source\repos\apai\ex3 linhas invertidas\ex3 linhas invertidas\obj\Debug\ex3 linhas invertidas.pdb

@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\bin\Debug\Contar palavras da letra.exe.config
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\bin\Debug\Contar palavras da letra.exe
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\bin\Debug\Contar palavras da letra.pdb
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\obj\Debug\Contar palavras da letra.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\obj\Debug\Contar palavras da letra.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\obj\Debug\Contar palavras da letra.exe
+C:\Users\dst30\source\repos\apai\Contar palavras da letra\Contar palavras da letra\obj\Debug\Contar palavras da letra.pdb
